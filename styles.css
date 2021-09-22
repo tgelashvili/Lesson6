@@ -26,3 +26,13 @@ p {
 	font-family: 'FreeSans';
 	position: absolute;
 }
+.img18, .img19 {
+	width: 463px;
+	height: 420px;
+	position: relative;
+}
+.img20, .img21 {
+	position: relative;
+	width: 463px;
+	height: 420px;
+}
