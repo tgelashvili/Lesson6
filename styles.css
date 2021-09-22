@@ -19,11 +19,11 @@ header h1, .textbold {
 }
 div {
 	display: inline-block;
+	position: relative;
 }
 .img18, .img19, .img20, .img21 {
 	width: 463px;
 	height: 420px;
-	position: relative;
 	display: inline-block;
 	margin-right: 25px;
 }
