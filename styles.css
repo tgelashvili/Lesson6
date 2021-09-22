@@ -20,7 +20,7 @@ header h1, .textbold {
 }
 .textbold, p {
 	top: 315px;
-	margin: auto;
+	position: absolute;
 }
 p {
 	font-family: 'FreeSans';
