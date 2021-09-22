@@ -17,14 +17,6 @@ h1 {
 header h1, .textbold {
 	font-family: 'FreeSansBold';
 }
-.textbold, p {
-	top: 315px;
-	position: absolute;
-}
-p {
-	font-family: 'FreeSans';
-	position: absolute;
-}
 .img18, .img19 {
 	width: 463px;
 	height: 420px;
@@ -36,4 +28,12 @@ p {
 	width: 463px;
 	height: 420px;
 	display: inline-block;
+}
+p {
+	font-family: 'FreeSans';
+	position: absolute;
+}
+.textbold, p {
+	top: 315px;
+	position: absolute;
 }
