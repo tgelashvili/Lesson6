@@ -32,6 +32,8 @@ p {
 	position: absolute;
 	background-color: rgba(255, 255, 255, 1);
 	border-radius: 12px;
+	width: 443px;
+	height: 125px;
 }
 .textbold, p {
 	top: 315px;
