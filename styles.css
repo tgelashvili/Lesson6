@@ -12,3 +12,17 @@ h1 {
 	margin-left: 240px;
 	padding-top: 70px;
 }
+.inline-block {
+	display: inline-block;
+}
+header h1, .textbold {
+	font-family: 'FreeSansBold';
+}
+.textbold, p {
+	top: 315px;
+	margin: auto;
+}
+p {
+	font-family: 'FreeSans';
+	position: absolute;
+}
