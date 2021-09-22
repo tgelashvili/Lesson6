@@ -34,13 +34,11 @@ p {
 	border-radius: 12px;
 	width: 443px;
 	height: 125px;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding: 30px 74px 30px 30px;
 	top: 315px;
 }
 .textbold {
 	top: 313px;
 	position: absolute;
-	padding-top: 28px: 
-	padding-bottom: 29px: 
+	padding: 28px 67px 29px 30px;
 }
