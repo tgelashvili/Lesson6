@@ -34,6 +34,9 @@ p {
 	border-radius: 12px;
 	width: 443px;
 	height: 125px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	top: 315px;
 }
 .textbold {
 	top: 313px;
