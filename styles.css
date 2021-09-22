@@ -25,6 +25,7 @@ div {
 	height: 420px;
 	position: relative;
 	display: inline-block;
+	margin-right: 25px;
 }
 p {
 	font-family: 'FreeSans';
