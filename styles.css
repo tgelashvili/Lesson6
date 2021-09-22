@@ -17,16 +17,13 @@ h1 {
 header h1, .textbold {
 	font-family: 'FreeSansBold';
 }
-.img18, .img19 {
-	width: 463px;
-	height: 420px;
-	position: relative;
+div {
 	display: inline-block;
 }
-.img20, .img21 {
-	position: relative;
+.img18, .img19, .img20, .img21 {
 	width: 463px;
 	height: 420px;
+	position: relative;
 	display: inline-block;
 }
 p {
