@@ -38,10 +38,16 @@ p {
 	padding: 30px 74px 30px 30px;
 	top: 285px;
 	right: 10px;
+	left: 10px;
+	bottom: 10px;
 }
 .textbold {
 	top: 285px;
 	right: 10px;
 	position: absolute;
 	padding: 28px 67px 29px 30px;
+	top: 285px;
+	right: 10px;
+	left: 10px;
+	bottom: 10px;
 }
