@@ -20,6 +20,7 @@ header h1, .textbold {
 div {
 	display: inline-block;
 	position: relative;
+	left: 240px;
 }
 .img18, .img19, .img20, .img21 {
 	width: 463px;
