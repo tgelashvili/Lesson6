@@ -9,6 +9,7 @@ header {
 	color: white;
 	display: inline-block;
 	width: 100%;
+	margin: 0 auto;
 }
 h1 {
 	margin-left: 240px;
